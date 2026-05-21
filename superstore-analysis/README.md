@@ -34,7 +34,7 @@ A key analytical distinction runs through all of this: some return spikes are **
 
 ## Images
 
-[![Image](returns-heatmap.png)](returns-heatmap.png) [![Image](customer-returns.png)](customer-returns.png) [![Image](returns-map.png)](returns-map.png)
+[![Image](returns-heatmap.png.png)](returns-heatmap.png.png) [![Image](customer-returns.png.png)](customer-returns.png.png) [![Image](returns-map.png.png)](returns-map.png.png)
 
 ## Technologies
 
